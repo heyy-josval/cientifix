@@ -4,9 +4,9 @@
 //		DOCENTE:		Yban Vilchez Navarro
 //
 //		INTEGRANTES:
-//									José Valentino Masías Castillo 			- 	21121047
-//									Nikold Amparo Soto Condori					-
-//									Tiffany Brissete Ticlla Belizario		-
+//									José Valentino Masías Castillo - (21121047)
+//									Nikold Amparo Soto Condori - (20221023)
+//									Tiffany Brissete Ticlla Belizario - (20221012)
 //									José Raphael Condori Benites				-
 //
 
