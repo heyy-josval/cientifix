@@ -3,12 +3,12 @@
 //		CURSO:			Lenguaje de programación estructurada
 //		DOCENTE:		Yban Vilchez Navarro
 //
-//		INTEGRANTES:	
+//		INTEGRANTES:
 //									José Valentino Masías Castillo 			- 	21121047
-//									Nikold Amparo Soto Condori					-		
-//									Tiffany Brissete Ticlla Belizario		-		
-//									José Raphael Condori Benites				-		
-//						
+//									Nikold Amparo Soto Condori					-
+//									Tiffany Brissete Ticlla Belizario		-
+//									José Raphael Condori Benites				-
+//
 
 #include <iostream>
 #include <string>
