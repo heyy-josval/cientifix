@@ -16,12 +16,15 @@
 *"Cientifix"* la cual es una calculadora científica, te ayuda a hacer cálculos básicos a una velocidad instantánea para ayudarte a practicar o hacer ecuaciones matematicas.
 
 Está planeado para calcular lo siguiente:
-* Áreas
-* Sistemas de ecuaciones
-* Matrices
-* Polinomios
-* Valores medios
-* *Mucho más...*
+* Operaciones básicas
+* Potencia
+* Raíz cuadrada
+* Cálcular módulo de un vector
+* Derivadas
+* Factoriales
+* Logaritmos
+* Funciones trigonometricas
+* *Entre otros...*
 
 Este tipo de calculadora no es útil en nuestra vida diaria, pero es muy necesaria cuando nuestro trabajo o investigación está relacionado con algún tipo de ingeniería.
 
