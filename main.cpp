@@ -22,8 +22,8 @@ int adding()
 		cin >> c;
 		b += c;
 	}
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Suma total: " << b;
+	cout << "\n\n\n\n"
+			 << "Suma total: " << b;
 }
 
 int subtraction()
@@ -45,8 +45,8 @@ int subtraction()
 			b -= c;
 		}
 	}
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Resta total: " << b;
+	cout << "\n\n\n\n"
+			 << "Resta total: " << b;
 }
 
 int multiply()
@@ -68,8 +68,8 @@ int multiply()
 			b *= c;
 		}
 	}
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Multiplicacion total: " << b;
+	cout << "\n\n\n\n"
+			 << "Multiplicacion total: " << b;
 }
 
 int division()
@@ -80,8 +80,8 @@ int division()
 	cin >> a;
 	cout << "\nDenominador: ";
 	cin >> b;
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Division total: " << a / b;
+	cout << "\n\n\n\n"
+			 << "Division total: " << a / b;
 }
 
 int powder()
@@ -93,8 +93,8 @@ int powder()
 	cout << "\nPotencia: ";
 	cin >> b;
 	double result = pow(a, b);
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Resultado: " << result;
+	cout << "\n\n\n\n"
+			 << "Potencia resultante: " << result;
 }
 
 int squareRoot()
@@ -103,8 +103,8 @@ int squareRoot()
 	cout << "Nro a sacar raiz: ";
 	cin >> a;
 	double result = sqrt(a);
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Resultado: " << result;
+	cout << "\n\n\n\n"
+			 << "Raiz resultante: " << result;
 }
 
 int module()
@@ -115,8 +115,8 @@ int module()
 	cout << "y: ";
 	cin >> b;
 	double result = sqrt(pow(a, 2) + pow(b, 2));
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Resultado: " << result;
+	cout << "\n\n\n\n"
+			 << "Modulo resultante: " << result;
 }
 
 int factorial()
@@ -136,29 +136,29 @@ int factorial()
 			factorial *= i;
 		}
 	}
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Resultado: " << factorial;
+	cout << "\n\n\n\n"
+			 << "Factorial resultante: " << factorial;
 }
 
 int LogaritmC(double n, double n2)
 {
 	double result = (double)(log2(n) / log2(n2));
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Resultado: " << result;
+	cout << "\n\n\n\n"
+			 << "Logaritmo resultante: " << result;
 }
 
 int Logaritm(double n)
 {
 	double result = log(n);
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Resultado: " << result;
+	cout << "\n\n\n\n"
+			 << "Logaritmo resultante: " << result;
 }
 
 int Logaritm10(double n)
 {
 	double result = log10(n);
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Resultado: " << result;
+	cout << "\n\n\n\n"
+			 << "Logaritmo resultante: " << result;
 }
 
 int questionLogaritm()
@@ -204,8 +204,8 @@ int Sen()
 	cin >> n;
 	n = n * 3.14 / 180;
 	double result = sin(n);
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Resultado: " << result;
+	cout << "\n\n\n\n"
+			 << "Resultado: " << result;
 }
 
 int Cos()
@@ -215,8 +215,8 @@ int Cos()
 	cin >> n;
 	n = n * 3.14 / 180;
 	double result = cos(n);
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Resultado: " << result;
+	cout << "\n\n\n\n"
+			 << "Resultado: " << result;
 }
 
 int Tan()
@@ -226,8 +226,8 @@ int Tan()
 	cin >> n;
 	n = n * 3.14 / 180;
 	double result = tan(n);
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Resultado: " << result;
+	cout << "\n\n\n\n"
+			 << "Resultado: " << result;
 }
 
 int Cotan()
@@ -237,8 +237,8 @@ int Cotan()
 	cin >> n;
 	n = n * 3.14 / 180;
 	double result = 1 / (tan(n));
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Resultado: " << result;
+	cout << "\n\n\n\n"
+			 << "Resultado: " << result;
 }
 
 int Sec()
@@ -248,8 +248,8 @@ int Sec()
 	cin >> n;
 	n = n * 3.14 / 180;
 	double result = 1 / (cos(n));
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Resultado: " << result;
+	cout << "\n\n\n\n"
+			 << "Resultado: " << result;
 }
 
 int Csc()
@@ -259,8 +259,8 @@ int Csc()
 	cin >> n;
 	n = n * 3.14 / 180;
 	double result = 1 / (sin(n));
-	cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-	cout << "\n                                                                             Resultado: " << result;
+	cout << "\n\n\n\n"
+			 << "Resultado: " << result;
 }
 
 int derivate()
