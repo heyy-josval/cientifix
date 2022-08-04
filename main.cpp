@@ -1,9 +1,16 @@
+//					PROYECTO DE SOFTWARE
+//
+//		CURSO:			Lenguaje de programación estructurada
+//		DOCENTE:		Yban Vilchez Navarro
+//
+//		INTEGRANTES:	José Valentino Masías Castillo - 21121047
+//						
+
 #include <iostream>
 #include <string>
 #include <fstream>
 #include <cmath>
 #include <bits/stdc++.h>
-
 using namespace std;
 
 //
